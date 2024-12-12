@@ -11,7 +11,7 @@ env:
   ### Replace <username> with GitHub username ###
   ###############################################
   DOCKER_IMAGE_NAME: Madina-webdeveloper-azure-ttt
-  AZURE_WEBAPP_NAME: Madina-webdevelope-ttt-app
+  AZURE_WEBAPP_NAME: Madina-webdeveloper-ttt-app
   ###############################################
 
 jobs:
